@@ -1,4 +1,4 @@
-package UsarIphone;
+package Teste;
 
 import Aparelho.IPhone;
 
